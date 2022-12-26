@@ -9,7 +9,9 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, world!")
+        
+        // 1. verze_ změna textu
+        Text("Testovanie verzovania")
             .padding()
     }
 }
